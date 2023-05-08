@@ -17,7 +17,7 @@ const jobWidgets = [
   {
     id: 1,
     lable: "TOTAL JOBS",
-    counter: "36894",
+    counter: "36895",
     separator: ",",
     series: [95],
     color: "#45cb85d9",

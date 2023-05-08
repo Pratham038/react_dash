@@ -41,7 +41,7 @@ const tileBoxs1 = [
         percentage: "-3.57 %",
         percentageClass: "warning",
         percentageIcon: "ri-arrow-right-down-line",
-        counter: "36894",
+        counter: "36895",
         caption: "View all orders",
         icon: "bx bx-shopping-bag",
         iconClass: "light",

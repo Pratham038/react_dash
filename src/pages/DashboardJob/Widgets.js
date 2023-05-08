@@ -39,7 +39,7 @@ const Widgets = () => {
                           {widget.lable}
                         </p>
                         <h4 className="fs-22 fw-semibold ff-secondary mb-0">
-                          <span className="counter-value" data-target="36894">
+                          <span className="counter-value" data-target="36895">
                             <CountUp
                               start={0}
                               end={widget.counter}

@@ -40,7 +40,7 @@ const ecomWidgets = [
         badge: "ri-arrow-right-down-line",
         badgeClass: "danger",
         percentage: "-3.57",
-        counter: "36894",
+        counter: "36895",
         link: "View all orders",
         bgcolor: "info",
         icon: "bx bx-shopping-bag",
